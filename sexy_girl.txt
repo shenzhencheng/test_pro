@@ -1,6 +1,14 @@
 sexy is cool
 
+<<<<<<< HEAD
 ccc
 
 hadoop
 oooo
+=======
+
+eee
+
+
+ff
+>>>>>>> origin/new_chenghao1
